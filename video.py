@@ -5,7 +5,7 @@ vidcap = cv2.VideoCapture(sys.argv[1]) #YOU CAN MANUALLY CHANGE TO A GIF OR VIDE
 success,image = vidcap.read()
 count = 0
 while success:
-  cv2.imwrite("frame%d.jpg" % count, image)
+  cv2.imwrite("./images/frame%d.jpg" % count, image)
   success,image = vidcap.read()
   print('Read a new frame: ', success)
   count += 1
