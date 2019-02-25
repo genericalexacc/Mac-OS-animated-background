@@ -9,7 +9,7 @@ If you have any problems installing opencv:
 https://pypi.org/project/opencv-python/
 
 ```console
-foo@bar:~$ pip install opencv-python
+foo@bar:~$ pip3.6 install opencv-python
 foo@bar:~$ pip3.6 install appscript
 foo@bar:~$ python3.6 video.py a.gif
 foo@bar:~$ python3.6 play.py
