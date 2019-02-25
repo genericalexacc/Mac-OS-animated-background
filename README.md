@@ -9,3 +9,5 @@ Run the following commands to get it working.
 foo@bar:~$ python3.6 video.py a.gif
 foo@bar:~$ python3.6 play.py
 ```
+
+![Image of Yaktocat](https://github.com/genericalexacc/Mac-OS-animated-background/edit/master/docs/video.gif)
