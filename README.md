@@ -1,4 +1,4 @@
-# Mac-OS-animated-background
+# Mac OS animated background ⛰
 Fun simple script to make your desktop background animated.
 
 You can change the a.gif for whatever video you want.
